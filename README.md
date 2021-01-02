@@ -1,6 +1,6 @@
 # ZTE-2019-Fourier
 A solution to radio frequency distortion modeling of ZTE algorithm contest in Fourier group.
-# 1.Distortion Modeling
+# 1.Distortion modeling
 Modeling and Simulation of power amplifier with memory and predistorter
 details in ZTE-2019-Fourier.pdf
 # 2.Parameters selection
